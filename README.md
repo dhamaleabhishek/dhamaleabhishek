@@ -1,16 +1,22 @@
-## Hi there 👋
+Hey there, fellow tech enthusiasts! 🚀
 
-<!--
-**dhamaleabhishek/dhamaleabhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You've landed on my inactive GitHub account, but don't fret! I'm active on another account. 🌟
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me!
+
+Check out my active account here!
+
+<a href="https://github.com/abhishekdhamale"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="25" /></a>
+[github.com/abhishekdhamale](https://github.com/abhishekdhamale)
+
+
+For more insights, projects, and tech musings, visit my personal website:
+
+🌐 [dhamaleabhishek.com](https://dhamaleabhishek.com)
+
+---
+
+Thanks for stopping by! Let's code the future together! 💻✨  
+*Stay curious and keep coding!* 🛠️
